@@ -1,7 +1,7 @@
-### twinBASIC Binding/Wrapper for Ninfa3D
+## twinBASIC Binding/Wrapper for Ninfa3D
 
 
-## What is Ninfa3D
+### What is Ninfa3D
 
 Graphic engine = Irrlicht  
 Sound engine = OpenAL  
