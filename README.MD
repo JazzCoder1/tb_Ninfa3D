@@ -7,13 +7,6 @@ Graphic engine = Irrlicht
 Sound engine = OpenAL  
 Physics engine = Newton
 
-=======
-Graphic engine = Irrlicht
-
-Sound engine = OpenAL
-
-Physics engine = Newton
-
 The original library for FreeBASIC is here:
 https://sourceforge.net/projects/ninfa3dengine/
 
