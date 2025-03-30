@@ -3,14 +3,17 @@
 
 ## What is Ninfa3D
 
-Graphic engine - Irrlicht
-Sound engine - OpenAL
-Physic engine - Newton
+Graphic engine = Irrlicht
 
-The original libray for FreeBASIC is here:
+Sound engine = OpenAL
+
+Physic engine = Newton
+
+The original library for FreeBASIC is here:
 https://sourceforge.net/projects/ninfa3dengine/
 
 Features include:
+
 	Stencil Shadows
 	Shaders
 	2D audio
