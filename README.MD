@@ -3,7 +3,6 @@
 
 ## What is Ninfa3D
 
-<<<<<<< HEAD
 Graphic engine = Irrlicht  
 Sound engine = OpenAL  
 Physics engine = Newton
