@@ -1,4 +1,4 @@
-# twinBASIC Binding/Wrapper for Ninfa3D
+### twinBASIC Binding/Wrapper for Ninfa3D
 
 
 ## What is Ninfa3D
@@ -15,7 +15,6 @@ Sound engine = OpenAL
 
 Physics engine = Newton
 
->>>>>>> d093dfe52c805804a50b8d2d9a21c84f620f2e2e
 The original library for FreeBASIC is here:
 https://sourceforge.net/projects/ninfa3dengine/
 
