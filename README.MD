@@ -34,7 +34,7 @@ Multiple examples are provided.
 Not all of the API calls have been tested.
 This is a 32-bit binding.
 
-![screenshot](https://github.com/JazzCoder1/tB_SIGIL/blob/main/screenshots.PNG "Examples")
+![screenshot](https://github.com/JazzCoder1/tb_Ninfa3D/blob/main/screenshots.PNG?raw=true "Examples")
 
 ### License
 
